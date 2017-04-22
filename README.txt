@@ -11,5 +11,5 @@ Travis CI tests the build when we push it automoatically.
 
 In .travis.yml if I change the executions script to test.py, I would see that it fails for python3.x 
 
-In .travis.yml if I change the executions script to test2.py, I would see that it passes for all.
+In .travis.yml if I change the executions script to test2.py, I would see that it passes for for both - python2.x and python3.x
 
